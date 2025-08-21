@@ -1,6 +1,6 @@
 # AI Literature Analyzer
 
-🤖 **AI驱动的学术文献分析系统** - 读文献偷懒工具，使用大语言模型的API对学术论文进行分析
+🤖 **AI驱动的学术文献分析系统** - 读文献偷懒工具，使用大语言模型对学术论文进行分析
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
