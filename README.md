@@ -1,6 +1,6 @@
 # AI Literature Analyzer
 
-🤖 **AI驱动的学术文献分析系统** - 使用大语言模型对学术论文进行深度分析
+🤖 **AI驱动的学术文献分析系统** - 读文献偷懒工具，使用大语言模型的API对学术论文进行分析
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -49,7 +49,7 @@ AI-Literature-Analyzer/
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/AI-Literature-Analyzer.git
+git clone https://github.com/yudongfang-thu/AI-Literature-Analyzer.git
 cd AI-Literature-Analyzer
 
 # 安装依赖
@@ -67,7 +67,7 @@ api:
   # 设置您的API密钥 - 请替换为您的真实API密钥
   api_key: "your-api-key-here"
   
-  # 选择模型 (免费版: deepseek-ai/DeepSeek-R1, 付费版: Pro/deepseek-ai/DeepSeek-R1)
+  # 选择模型 (免费版（硅基流动的赠送额度可用）: deepseek-ai/DeepSeek-R1, 付费版: Pro/deepseek-ai/DeepSeek-R1)
   model: "Pro/deepseek-ai/DeepSeek-R1"
 ```
 
