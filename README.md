@@ -285,7 +285,7 @@ processing:
 
 如有问题或建议，欢迎：
 - 提交 [Issue](https://github.com/yudongfang/AI-Literature-Analyzer/issues)
-- 发送邮件至：yudongfang55@gmail.com
+- 发送邮件至：ydf24@mails.tsinghua.edu.cn
 
 ## 📄 许可证与版权
 
